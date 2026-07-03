@@ -1,0 +1,201 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+CA-10001,2023-11-24,2023-11-30,Standard Class,CUST-704,Customer 55,Consumer,USA,Los Angeles,California,West,P-1488,Furniture,Bookcases,Bookcases Model 3,564.56,2,0.1,-26.65
+CA-10002,2023-03-06,2023-03-08,Same Day,CUST-703,Customer 36,Consumer,USA,New York,New York,East,P-3615,Furniture,Bookcases,Bookcases Model 14,1212.0,9,0.1,257.2
+CA-10003,2022-04-10,2022-04-13,First Class,CUST-718,Customer 34,Consumer,USA,Houston,Texas,South,P-8527,Office Supplies,Binders,Binders Model 18,446.32,7,0.2,-33.03
+CA-10004,2022-02-16,2022-02-22,Second Class,CUST-891,Customer 38,Consumer,USA,Los Angeles,California,West,P-4814,Office Supplies,Binders,Binders Model 4,1113.04,2,0.2,155.61
+CA-10005,2022-08-03,2022-08-09,First Class,CUST-818,Customer 10,Home Office,USA,Chicago,Illinois,Central,P-3803,Office Supplies,Paper,Paper Model 18,1278.66,6,0.2,-59.85
+CA-10006,2022-08-23,2022-08-30,Standard Class,CUST-924,Customer 41,Corporate,USA,New York,New York,East,P-5386,Furniture,Tables,Tables Model 3,771.32,1,0.1,152.78
+CA-10007,2022-05-27,2022-05-30,Second Class,CUST-352,Customer 72,Home Office,USA,New York,New York,East,P-5304,Technology,Copiers,Copiers Model 19,643.06,8,0.3,30.89
+CA-10008,2022-02-18,2022-02-25,Standard Class,CUST-256,Customer 21,Home Office,USA,Chicago,Illinois,Central,P-7916,Technology,Accessories,Accessories Model 20,736.75,2,0.1,87.88
+CA-10009,2022-01-12,2022-01-18,Standard Class,CUST-798,Customer 69,Corporate,USA,Los Angeles,California,West,P-6573,Office Supplies,Paper,Paper Model 4,1199.86,9,0.3,129.71
+CA-10010,2023-06-04,2023-06-05,First Class,CUST-961,Customer 65,Home Office,USA,Houston,Texas,South,P-4258,Office Supplies,Binders,Binders Model 5,918.37,3,0.2,291.44
+CA-10011,2022-01-20,2022-01-21,First Class,CUST-999,Customer 40,Consumer,USA,Houston,Texas,South,P-1949,Furniture,Bookcases,Bookcases Model 8,1907.93,8,0.0,323.44
+CA-10012,2022-05-09,2022-05-11,Same Day,CUST-662,Customer 22,Corporate,USA,Los Angeles,California,West,P-9645,Furniture,Bookcases,Bookcases Model 20,982.26,9,0.0,334.06
+CA-10013,2023-11-19,2023-11-25,First Class,CUST-548,Customer 67,Corporate,USA,Chicago,Illinois,Central,P-2982,Furniture,Bookcases,Bookcases Model 8,1515.43,7,0.1,319.49
+CA-10014,2022-03-14,2022-03-20,Standard Class,CUST-334,Customer 9,Consumer,USA,New York,New York,East,P-6413,Furniture,Tables,Tables Model 3,61.65,1,0.1,9.54
+CA-10015,2023-08-14,2023-08-18,Second Class,CUST-903,Customer 61,Corporate,USA,New York,New York,East,P-4119,Office Supplies,Storage,Storage Model 4,981.12,10,0.1,211.44
+CA-10016,2023-11-21,2023-11-27,Standard Class,CUST-162,Customer 52,Home Office,USA,Los Angeles,California,West,P-6559,Technology,Accessories,Accessories Model 4,721.51,1,0.3,57.84
+CA-10017,2023-04-19,2023-04-21,Standard Class,CUST-553,Customer 71,Consumer,USA,New York,New York,East,P-1828,Furniture,Chairs,Chairs Model 18,1081.85,5,0.1,86.38
+CA-10018,2022-03-02,2022-03-04,Same Day,CUST-102,Customer 50,Corporate,USA,Los Angeles,California,West,P-8454,Furniture,Chairs,Chairs Model 10,349.3,7,0.3,30.25
+CA-10019,2022-08-11,2022-08-12,Standard Class,CUST-865,Customer 41,Consumer,USA,Chicago,Illinois,Central,P-1821,Technology,Copiers,Copiers Model 19,1990.94,5,0.3,-120.14
+CA-10020,2023-09-02,2023-09-03,Second Class,CUST-513,Customer 16,Home Office,USA,Chicago,Illinois,Central,P-5033,Technology,Copiers,Copiers Model 19,331.72,2,0.0,93.91
+CA-10021,2023-11-17,2023-11-23,First Class,CUST-344,Customer 34,Corporate,USA,Los Angeles,California,West,P-3144,Technology,Phones,Phones Model 10,850.07,4,0.2,255.55
+CA-10022,2023-06-03,2023-06-06,Second Class,CUST-457,Customer 9,Consumer,USA,Chicago,Illinois,Central,P-7054,Office Supplies,Binders,Binders Model 10,38.44,4,0.0,-2.58
+CA-10023,2022-11-03,2022-11-09,Standard Class,CUST-999,Customer 18,Corporate,USA,New York,New York,East,P-2891,Office Supplies,Storage,Storage Model 4,1413.01,9,0.0,283.36
+CA-10024,2023-06-02,2023-06-06,First Class,CUST-966,Customer 7,Consumer,USA,New York,New York,East,P-7939,Office Supplies,Paper,Paper Model 9,1217.56,5,0.2,-34.56
+CA-10025,2023-07-19,2023-07-25,Same Day,CUST-674,Customer 2,Consumer,USA,Los Angeles,California,West,P-2232,Furniture,Tables,Tables Model 5,1546.82,8,0.2,-73.15
+CA-10026,2023-01-09,2023-01-16,Standard Class,CUST-466,Customer 27,Home Office,USA,Los Angeles,California,West,P-5088,Office Supplies,Storage,Storage Model 4,1114.0,5,0.3,-80.93
+CA-10027,2022-06-16,2022-06-23,Second Class,CUST-522,Customer 4,Consumer,USA,Houston,Texas,South,P-6442,Technology,Accessories,Accessories Model 14,1948.2,4,0.1,597.31
+CA-10028,2023-04-27,2023-04-29,Second Class,CUST-936,Customer 59,Corporate,USA,New York,New York,East,P-6000,Office Supplies,Binders,Binders Model 8,1579.0,1,0.0,113.92
+CA-10029,2022-10-13,2022-10-16,Same Day,CUST-795,Customer 69,Corporate,USA,New York,New York,East,P-1452,Furniture,Bookcases,Bookcases Model 4,402.4,2,0.2,2.16
+CA-10030,2023-03-21,2023-03-24,First Class,CUST-546,Customer 78,Home Office,USA,Houston,Texas,South,P-2894,Furniture,Bookcases,Bookcases Model 13,1925.82,10,0.2,-197.94
+CA-10031,2023-12-05,2023-12-11,Second Class,CUST-472,Customer 56,Consumer,USA,New York,New York,East,P-6409,Office Supplies,Binders,Binders Model 20,1423.39,9,0.0,190.68
+CA-10032,2022-12-01,2022-12-05,First Class,CUST-667,Customer 17,Consumer,USA,Houston,Texas,South,P-7888,Technology,Phones,Phones Model 13,1445.11,7,0.2,156.37
+CA-10033,2023-03-17,2023-03-24,First Class,CUST-576,Customer 57,Corporate,USA,New York,New York,East,P-4501,Technology,Copiers,Copiers Model 17,615.88,4,0.0,22.63
+CA-10034,2022-12-10,2022-12-11,Second Class,CUST-788,Customer 40,Consumer,USA,Chicago,Illinois,Central,P-4262,Technology,Phones,Phones Model 5,1324.52,10,0.2,148.28
+CA-10035,2022-07-19,2022-07-25,Same Day,CUST-606,Customer 52,Consumer,USA,Los Angeles,California,West,P-3417,Furniture,Chairs,Chairs Model 1,1968.19,10,0.0,206.54
+CA-10036,2022-05-05,2022-05-09,Second Class,CUST-920,Customer 60,Home Office,USA,Los Angeles,California,West,P-9702,Office Supplies,Binders,Binders Model 18,368.26,4,0.3,-39.55
+CA-10037,2023-04-02,2023-04-04,Same Day,CUST-560,Customer 34,Consumer,USA,Houston,Texas,South,P-5543,Office Supplies,Storage,Storage Model 17,1633.71,9,0.3,398.23
+CA-10038,2022-10-06,2022-10-09,First Class,CUST-653,Customer 11,Consumer,USA,Chicago,Illinois,Central,P-3471,Technology,Phones,Phones Model 8,563.7,4,0.0,124.63
+CA-10039,2023-07-10,2023-07-14,Same Day,CUST-163,Customer 27,Corporate,USA,Chicago,Illinois,Central,P-7381,Technology,Phones,Phones Model 19,1418.71,6,0.0,122.99
+CA-10040,2023-03-06,2023-03-11,Second Class,CUST-599,Customer 29,Corporate,USA,Los Angeles,California,West,P-8140,Technology,Accessories,Accessories Model 16,964.42,7,0.2,13.86
+CA-10041,2022-05-11,2022-05-16,Standard Class,CUST-503,Customer 76,Home Office,USA,Los Angeles,California,West,P-1444,Office Supplies,Paper,Paper Model 3,1344.37,8,0.3,263.34
+CA-10042,2023-04-11,2023-04-14,First Class,CUST-879,Customer 49,Corporate,USA,Chicago,Illinois,Central,P-7906,Furniture,Tables,Tables Model 9,379.82,4,0.2,19.22
+CA-10043,2022-08-18,2022-08-24,Standard Class,CUST-899,Customer 6,Consumer,USA,Los Angeles,California,West,P-5051,Office Supplies,Binders,Binders Model 7,1503.07,6,0.0,526.01
+CA-10044,2022-08-12,2022-08-16,First Class,CUST-885,Customer 48,Consumer,USA,Los Angeles,California,West,P-2876,Technology,Phones,Phones Model 6,492.32,10,0.3,84.31
+CA-10045,2023-02-11,2023-02-17,Second Class,CUST-177,Customer 76,Home Office,USA,Houston,Texas,South,P-4978,Furniture,Bookcases,Bookcases Model 4,70.84,7,0.2,9.85
+CA-10046,2023-11-09,2023-11-12,Standard Class,CUST-618,Customer 44,Consumer,USA,Houston,Texas,South,P-7882,Technology,Copiers,Copiers Model 16,1614.95,7,0.0,90.83
+CA-10047,2022-06-30,2022-07-06,First Class,CUST-730,Customer 69,Corporate,USA,Los Angeles,California,West,P-8616,Office Supplies,Paper,Paper Model 14,1278.46,7,0.3,240.72
+CA-10048,2022-09-07,2022-09-14,Same Day,CUST-683,Customer 79,Home Office,USA,Houston,Texas,South,P-7209,Office Supplies,Binders,Binders Model 11,1664.85,8,0.0,42.48
+CA-10049,2022-12-15,2022-12-18,First Class,CUST-669,Customer 2,Home Office,USA,Los Angeles,California,West,P-4130,Office Supplies,Paper,Paper Model 3,380.04,5,0.1,18.88
+CA-10050,2023-04-04,2023-04-11,Standard Class,CUST-195,Customer 38,Consumer,USA,New York,New York,East,P-7625,Technology,Accessories,Accessories Model 8,987.38,8,0.1,198.24
+CA-10051,2022-12-05,2022-12-08,Same Day,CUST-377,Customer 40,Corporate,USA,Houston,Texas,South,P-4777,Technology,Copiers,Copiers Model 4,750.66,9,0.2,53.65
+CA-10052,2022-10-11,2022-10-17,First Class,CUST-202,Customer 25,Corporate,USA,New York,New York,East,P-4727,Office Supplies,Binders,Binders Model 12,1490.9,8,0.1,-35.49
+CA-10053,2023-07-21,2023-07-24,Second Class,CUST-753,Customer 63,Consumer,USA,New York,New York,East,P-1200,Office Supplies,Binders,Binders Model 19,1421.88,1,0.1,19.11
+CA-10054,2023-05-05,2023-05-06,Standard Class,CUST-510,Customer 63,Consumer,USA,Houston,Texas,South,P-1878,Office Supplies,Paper,Paper Model 5,892.13,5,0.1,289.47
+CA-10055,2023-09-13,2023-09-18,Second Class,CUST-894,Customer 67,Corporate,USA,New York,New York,East,P-8381,Technology,Accessories,Accessories Model 15,188.66,7,0.1,-10.7
+CA-10056,2022-08-01,2022-08-07,Second Class,CUST-370,Customer 11,Consumer,USA,Houston,Texas,South,P-4929,Technology,Accessories,Accessories Model 6,624.65,2,0.0,108.9
+CA-10057,2022-10-23,2022-10-29,First Class,CUST-819,Customer 59,Consumer,USA,Los Angeles,California,West,P-4824,Furniture,Chairs,Chairs Model 9,828.86,4,0.3,0.88
+CA-10058,2022-03-15,2022-03-16,Second Class,CUST-911,Customer 40,Home Office,USA,New York,New York,East,P-5728,Office Supplies,Binders,Binders Model 15,1098.23,3,0.1,328.13
+CA-10059,2023-07-07,2023-07-11,Same Day,CUST-182,Customer 77,Consumer,USA,Los Angeles,California,West,P-8078,Office Supplies,Storage,Storage Model 11,622.1,9,0.3,183.02
+CA-10060,2023-08-14,2023-08-15,Second Class,CUST-581,Customer 67,Home Office,USA,Houston,Texas,South,P-8245,Furniture,Chairs,Chairs Model 9,473.27,5,0.0,165.55
+CA-10061,2022-12-23,2022-12-27,First Class,CUST-428,Customer 14,Consumer,USA,New York,New York,East,P-6403,Technology,Accessories,Accessories Model 14,1276.87,8,0.3,390.82
+CA-10062,2022-09-16,2022-09-19,Standard Class,CUST-891,Customer 52,Home Office,USA,Chicago,Illinois,Central,P-1018,Office Supplies,Storage,Storage Model 18,1891.48,6,0.0,197.98
+CA-10063,2023-10-03,2023-10-07,Standard Class,CUST-308,Customer 35,Home Office,USA,Chicago,Illinois,Central,P-3146,Office Supplies,Binders,Binders Model 10,391.41,8,0.2,62.7
+CA-10064,2023-07-19,2023-07-20,Same Day,CUST-195,Customer 29,Consumer,USA,Chicago,Illinois,Central,P-8560,Technology,Accessories,Accessories Model 4,260.42,5,0.1,54.53
+CA-10065,2023-04-29,2023-05-01,Same Day,CUST-664,Customer 19,Corporate,USA,New York,New York,East,P-4122,Office Supplies,Storage,Storage Model 20,597.89,8,0.2,40.04
+CA-10066,2022-10-01,2022-10-08,Standard Class,CUST-389,Customer 39,Home Office,USA,New York,New York,East,P-9022,Furniture,Tables,Tables Model 5,1549.9,9,0.3,35.56
+CA-10067,2022-07-13,2022-07-19,Second Class,CUST-685,Customer 50,Consumer,USA,Chicago,Illinois,Central,P-7730,Technology,Accessories,Accessories Model 2,703.35,6,0.3,52.68
+CA-10068,2023-05-23,2023-05-24,Second Class,CUST-614,Customer 76,Corporate,USA,Houston,Texas,South,P-2644,Technology,Accessories,Accessories Model 15,1416.35,3,0.3,61.94
+CA-10069,2022-03-18,2022-03-22,First Class,CUST-446,Customer 80,Home Office,USA,Los Angeles,California,West,P-7512,Technology,Accessories,Accessories Model 3,50.39,3,0.1,3.75
+CA-10070,2023-07-09,2023-07-10,Standard Class,CUST-340,Customer 37,Consumer,USA,Houston,Texas,South,P-2480,Technology,Copiers,Copiers Model 14,772.42,8,0.2,125.18
+CA-10071,2022-01-30,2022-01-31,First Class,CUST-915,Customer 8,Corporate,USA,Los Angeles,California,West,P-6873,Technology,Copiers,Copiers Model 12,1747.71,5,0.3,-96.36
+CA-10072,2023-09-17,2023-09-24,Same Day,CUST-734,Customer 31,Corporate,USA,Chicago,Illinois,Central,P-3344,Furniture,Chairs,Chairs Model 8,1071.71,2,0.1,-35.91
+CA-10073,2022-10-22,2022-10-28,Second Class,CUST-175,Customer 57,Corporate,USA,Chicago,Illinois,Central,P-5901,Technology,Accessories,Accessories Model 14,929.95,8,0.0,283.18
+CA-10074,2022-08-31,2022-09-04,First Class,CUST-688,Customer 38,Home Office,USA,Houston,Texas,South,P-5837,Office Supplies,Paper,Paper Model 1,414.45,2,0.3,105.27
+CA-10075,2022-10-21,2022-10-28,Second Class,CUST-721,Customer 46,Consumer,USA,Chicago,Illinois,Central,P-4115,Office Supplies,Binders,Binders Model 20,1140.54,8,0.0,353.31
+CA-10076,2022-11-13,2022-11-20,Same Day,CUST-134,Customer 75,Corporate,USA,Houston,Texas,South,P-3153,Technology,Copiers,Copiers Model 3,1539.59,1,0.1,265.91
+CA-10077,2023-01-10,2023-01-15,First Class,CUST-950,Customer 22,Corporate,USA,Houston,Texas,South,P-8894,Office Supplies,Storage,Storage Model 10,842.7,9,0.1,-42.58
+CA-10078,2023-11-24,2023-11-30,Same Day,CUST-966,Customer 72,Corporate,USA,Houston,Texas,South,P-2479,Furniture,Tables,Tables Model 13,1926.53,4,0.1,441.88
+CA-10079,2023-08-22,2023-08-26,First Class,CUST-210,Customer 30,Corporate,USA,Los Angeles,California,West,P-1410,Office Supplies,Storage,Storage Model 20,264.71,5,0.2,48.38
+CA-10080,2023-10-27,2023-10-31,Standard Class,CUST-243,Customer 6,Consumer,USA,Houston,Texas,South,P-5986,Technology,Phones,Phones Model 16,1302.35,5,0.3,363.65
+CA-10081,2023-11-18,2023-11-24,Same Day,CUST-701,Customer 20,Corporate,USA,Los Angeles,California,West,P-2622,Furniture,Chairs,Chairs Model 16,1776.77,6,0.1,115.3
+CA-10082,2023-01-07,2023-01-08,First Class,CUST-657,Customer 46,Consumer,USA,Chicago,Illinois,Central,P-7523,Office Supplies,Binders,Binders Model 9,1386.76,4,0.1,124.15
+CA-10083,2022-01-22,2022-01-23,First Class,CUST-349,Customer 17,Home Office,USA,New York,New York,East,P-4362,Furniture,Tables,Tables Model 3,201.51,10,0.1,36.02
+CA-10084,2023-09-03,2023-09-04,First Class,CUST-979,Customer 19,Consumer,USA,New York,New York,East,P-9850,Technology,Phones,Phones Model 9,1629.84,3,0.1,61.69
+CA-10085,2023-08-26,2023-08-29,Standard Class,CUST-278,Customer 34,Consumer,USA,New York,New York,East,P-3076,Furniture,Bookcases,Bookcases Model 14,1735.57,4,0.1,-179.31
+CA-10086,2023-04-08,2023-04-13,Second Class,CUST-729,Customer 6,Home Office,USA,Los Angeles,California,West,P-9543,Technology,Phones,Phones Model 10,962.97,2,0.2,106.85
+CA-10087,2023-12-04,2023-12-05,Same Day,CUST-829,Customer 57,Consumer,USA,Chicago,Illinois,Central,P-2323,Technology,Phones,Phones Model 11,140.43,7,0.3,35.29
+CA-10088,2023-06-28,2023-07-01,Same Day,CUST-617,Customer 78,Corporate,USA,New York,New York,East,P-2624,Furniture,Chairs,Chairs Model 4,564.53,10,0.2,29.02
+CA-10089,2023-02-13,2023-02-17,Standard Class,CUST-420,Customer 55,Corporate,USA,New York,New York,East,P-5176,Office Supplies,Paper,Paper Model 12,1778.42,8,0.3,40.05
+CA-10090,2023-01-17,2023-01-24,Second Class,CUST-669,Customer 8,Home Office,USA,New York,New York,East,P-6400,Technology,Accessories,Accessories Model 4,152.92,2,0.0,-8.88
+CA-10091,2022-10-22,2022-10-27,First Class,CUST-460,Customer 14,Home Office,USA,Chicago,Illinois,Central,P-9313,Office Supplies,Storage,Storage Model 7,1883.44,1,0.3,490.9
+CA-10092,2023-01-12,2023-01-13,First Class,CUST-687,Customer 29,Corporate,USA,New York,New York,East,P-1430,Technology,Accessories,Accessories Model 20,464.0,9,0.0,26.7
+CA-10093,2022-01-07,2022-01-09,Second Class,CUST-679,Customer 52,Consumer,USA,Houston,Texas,South,P-3324,Furniture,Chairs,Chairs Model 1,561.08,6,0.2,165.35
+CA-10094,2023-01-14,2023-01-17,First Class,CUST-895,Customer 73,Home Office,USA,Los Angeles,California,West,P-2391,Technology,Copiers,Copiers Model 2,445.96,3,0.3,33.06
+CA-10095,2023-05-13,2023-05-18,Same Day,CUST-524,Customer 35,Consumer,USA,New York,New York,East,P-9394,Furniture,Bookcases,Bookcases Model 4,118.53,7,0.0,2.66
+CA-10096,2022-02-16,2022-02-18,Same Day,CUST-713,Customer 8,Consumer,USA,Houston,Texas,South,P-4349,Office Supplies,Binders,Binders Model 10,580.83,5,0.3,62.22
+CA-10097,2022-06-29,2022-07-01,Same Day,CUST-645,Customer 30,Home Office,USA,New York,New York,East,P-6802,Furniture,Tables,Tables Model 3,593.11,7,0.0,-57.25
+CA-10098,2023-08-13,2023-08-17,Same Day,CUST-826,Customer 54,Corporate,USA,Chicago,Illinois,Central,P-2887,Technology,Phones,Phones Model 13,883.71,6,0.3,251.44
+CA-10099,2022-04-01,2022-04-05,Standard Class,CUST-349,Customer 56,Home Office,USA,Los Angeles,California,West,P-7560,Office Supplies,Binders,Binders Model 17,1606.62,6,0.3,392.68
+CA-10100,2022-03-20,2022-03-25,Standard Class,CUST-643,Customer 66,Consumer,USA,Los Angeles,California,West,P-6724,Office Supplies,Paper,Paper Model 12,1496.69,3,0.1,59.69
+CA-10101,2023-11-03,2023-11-04,Second Class,CUST-891,Customer 64,Corporate,USA,New York,New York,East,P-8354,Furniture,Chairs,Chairs Model 19,309.96,3,0.1,-9.9
+CA-10102,2022-10-09,2022-10-14,Standard Class,CUST-460,Customer 65,Consumer,USA,Houston,Texas,South,P-6085,Technology,Accessories,Accessories Model 15,318.9,5,0.0,35.4
+CA-10103,2023-09-22,2023-09-27,Same Day,CUST-573,Customer 75,Home Office,USA,Chicago,Illinois,Central,P-1672,Furniture,Chairs,Chairs Model 15,750.1,2,0.2,-64.11
+CA-10104,2022-04-16,2022-04-23,First Class,CUST-831,Customer 11,Home Office,USA,New York,New York,East,P-3827,Office Supplies,Storage,Storage Model 2,961.75,8,0.1,308.7
+CA-10105,2023-02-01,2023-02-05,First Class,CUST-795,Customer 77,Consumer,USA,New York,New York,East,P-6482,Technology,Accessories,Accessories Model 3,1982.15,5,0.1,106.55
+CA-10106,2022-06-03,2022-06-06,Standard Class,CUST-696,Customer 19,Corporate,USA,Houston,Texas,South,P-6082,Furniture,Bookcases,Bookcases Model 13,1363.19,10,0.2,-9.0
+CA-10107,2022-05-11,2022-05-17,Standard Class,CUST-761,Customer 55,Home Office,USA,New York,New York,East,P-6928,Technology,Copiers,Copiers Model 1,1877.24,6,0.2,246.89
+CA-10108,2022-07-16,2022-07-18,Second Class,CUST-258,Customer 10,Corporate,USA,Houston,Texas,South,P-2657,Office Supplies,Binders,Binders Model 17,1903.32,8,0.2,583.27
+CA-10109,2022-06-16,2022-06-18,Second Class,CUST-838,Customer 57,Consumer,USA,Los Angeles,California,West,P-7731,Technology,Accessories,Accessories Model 12,1755.26,3,0.1,278.67
+CA-10110,2022-11-13,2022-11-20,Same Day,CUST-955,Customer 25,Corporate,USA,New York,New York,East,P-8218,Office Supplies,Storage,Storage Model 15,584.16,4,0.3,-14.43
+CA-10111,2022-05-22,2022-05-29,First Class,CUST-153,Customer 62,Corporate,USA,Houston,Texas,South,P-2680,Office Supplies,Storage,Storage Model 17,1064.37,10,0.1,274.18
+CA-10112,2022-05-31,2022-06-07,Same Day,CUST-193,Customer 29,Corporate,USA,Los Angeles,California,West,P-6727,Office Supplies,Binders,Binders Model 1,1530.97,9,0.2,125.84
+CA-10113,2023-01-19,2023-01-21,Standard Class,CUST-426,Customer 13,Home Office,USA,Chicago,Illinois,Central,P-6493,Furniture,Tables,Tables Model 5,1013.97,2,0.1,64.67
+CA-10114,2023-12-24,2023-12-28,Same Day,CUST-730,Customer 1,Consumer,USA,New York,New York,East,P-1311,Furniture,Tables,Tables Model 9,1836.44,3,0.3,336.5
+CA-10115,2022-09-01,2022-09-04,Standard Class,CUST-148,Customer 31,Corporate,USA,New York,New York,East,P-8489,Furniture,Bookcases,Bookcases Model 3,1881.65,5,0.3,-150.47
+CA-10116,2023-03-16,2023-03-17,First Class,CUST-346,Customer 74,Corporate,USA,Los Angeles,California,West,P-4068,Office Supplies,Storage,Storage Model 3,1081.39,5,0.1,230.71
+CA-10117,2022-02-14,2022-02-20,Same Day,CUST-482,Customer 33,Home Office,USA,Houston,Texas,South,P-1266,Furniture,Bookcases,Bookcases Model 12,1097.28,8,0.0,83.07
+CA-10118,2022-05-17,2022-05-18,First Class,CUST-659,Customer 44,Home Office,USA,Los Angeles,California,West,P-3868,Office Supplies,Binders,Binders Model 15,1471.22,6,0.0,363.65
+CA-10119,2022-02-07,2022-02-10,Second Class,CUST-144,Customer 26,Consumer,USA,Chicago,Illinois,Central,P-6170,Technology,Phones,Phones Model 10,1626.77,8,0.0,361.5
+CA-10120,2023-11-03,2023-11-06,First Class,CUST-227,Customer 48,Corporate,USA,Chicago,Illinois,Central,P-7553,Technology,Accessories,Accessories Model 15,521.56,1,0.1,9.78
+CA-10121,2022-10-01,2022-10-08,Standard Class,CUST-844,Customer 55,Consumer,USA,Chicago,Illinois,Central,P-8055,Office Supplies,Binders,Binders Model 20,1002.48,9,0.3,35.39
+CA-10122,2022-11-10,2022-11-14,Same Day,CUST-270,Customer 57,Corporate,USA,New York,New York,East,P-8325,Technology,Accessories,Accessories Model 2,656.0,5,0.0,31.2
+CA-10123,2023-01-08,2023-01-13,Second Class,CUST-131,Customer 19,Home Office,USA,Houston,Texas,South,P-8179,Technology,Accessories,Accessories Model 2,563.62,7,0.0,-37.33
+CA-10124,2022-02-03,2022-02-08,Second Class,CUST-795,Customer 58,Corporate,USA,New York,New York,East,P-7095,Furniture,Chairs,Chairs Model 15,1561.46,10,0.2,67.09
+CA-10125,2022-09-13,2022-09-14,Standard Class,CUST-853,Customer 24,Corporate,USA,Los Angeles,California,West,P-9482,Technology,Phones,Phones Model 13,1068.33,5,0.3,12.26
+CA-10126,2023-12-12,2023-12-16,Second Class,CUST-225,Customer 18,Consumer,USA,Los Angeles,California,West,P-8406,Office Supplies,Paper,Paper Model 6,1413.99,5,0.1,478.44
+CA-10127,2023-07-18,2023-07-23,First Class,CUST-407,Customer 21,Home Office,USA,Chicago,Illinois,Central,P-3852,Furniture,Bookcases,Bookcases Model 12,1935.77,2,0.2,349.46
+CA-10128,2023-01-05,2023-01-10,First Class,CUST-578,Customer 71,Consumer,USA,New York,New York,East,P-2412,Furniture,Chairs,Chairs Model 3,1588.29,1,0.1,390.19
+CA-10129,2022-03-17,2022-03-19,First Class,CUST-757,Customer 10,Corporate,USA,Houston,Texas,South,P-8632,Office Supplies,Storage,Storage Model 17,1443.36,10,0.3,311.94
+CA-10130,2023-03-20,2023-03-25,Standard Class,CUST-951,Customer 16,Home Office,USA,Houston,Texas,South,P-3507,Furniture,Bookcases,Bookcases Model 10,1286.79,3,0.1,303.04
+CA-10131,2022-10-18,2022-10-25,Standard Class,CUST-356,Customer 26,Home Office,USA,New York,New York,East,P-5496,Furniture,Tables,Tables Model 5,1870.78,9,0.1,85.51
+CA-10132,2022-06-07,2022-06-09,First Class,CUST-962,Customer 73,Consumer,USA,Houston,Texas,South,P-1464,Technology,Copiers,Copiers Model 3,204.99,10,0.1,32.04
+CA-10133,2023-09-25,2023-10-01,Standard Class,CUST-609,Customer 70,Corporate,USA,Los Angeles,California,West,P-5949,Technology,Copiers,Copiers Model 16,544.02,7,0.1,127.92
+CA-10134,2023-03-27,2023-03-31,Same Day,CUST-575,Customer 27,Corporate,USA,New York,New York,East,P-3353,Technology,Accessories,Accessories Model 11,608.92,3,0.0,127.8
+CA-10135,2023-07-30,2023-07-31,First Class,CUST-347,Customer 60,Consumer,USA,Houston,Texas,South,P-5382,Technology,Accessories,Accessories Model 15,1951.24,9,0.1,453.27
+CA-10136,2022-09-12,2022-09-19,Second Class,CUST-933,Customer 42,Home Office,USA,New York,New York,East,P-6123,Furniture,Chairs,Chairs Model 7,120.2,7,0.3,31.12
+CA-10137,2023-02-07,2023-02-12,Same Day,CUST-346,Customer 28,Home Office,USA,New York,New York,East,P-6781,Office Supplies,Storage,Storage Model 2,944.29,2,0.2,98.03
+CA-10138,2022-04-21,2022-04-25,Second Class,CUST-370,Customer 47,Corporate,USA,Los Angeles,California,West,P-6995,Office Supplies,Paper,Paper Model 2,1203.09,1,0.3,-1.7
+CA-10139,2023-01-31,2023-02-05,Same Day,CUST-882,Customer 71,Corporate,USA,Chicago,Illinois,Central,P-2946,Furniture,Bookcases,Bookcases Model 5,1132.4,2,0.2,146.02
+CA-10140,2022-05-28,2022-05-30,Same Day,CUST-612,Customer 6,Consumer,USA,Los Angeles,California,West,P-1637,Office Supplies,Paper,Paper Model 5,1593.9,6,0.2,208.84
+CA-10141,2022-11-23,2022-11-25,Same Day,CUST-731,Customer 39,Home Office,USA,Houston,Texas,South,P-6511,Office Supplies,Storage,Storage Model 17,924.84,10,0.1,34.76
+CA-10142,2023-03-03,2023-03-08,First Class,CUST-915,Customer 4,Home Office,USA,Chicago,Illinois,Central,P-8775,Technology,Copiers,Copiers Model 9,613.59,2,0.0,40.35
+CA-10143,2023-01-25,2023-01-27,Second Class,CUST-132,Customer 74,Home Office,USA,New York,New York,East,P-2800,Technology,Phones,Phones Model 7,1175.38,10,0.1,147.99
+CA-10144,2023-05-29,2023-06-05,Same Day,CUST-993,Customer 8,Home Office,USA,Los Angeles,California,West,P-3262,Office Supplies,Paper,Paper Model 17,849.18,7,0.3,153.47
+CA-10145,2022-06-27,2022-07-01,First Class,CUST-659,Customer 46,Home Office,USA,New York,New York,East,P-5331,Technology,Accessories,Accessories Model 20,1996.28,6,0.3,212.53
+CA-10146,2022-10-23,2022-10-29,Second Class,CUST-806,Customer 63,Corporate,USA,Chicago,Illinois,Central,P-8861,Furniture,Chairs,Chairs Model 12,572.43,5,0.2,-10.77
+CA-10147,2022-12-20,2022-12-27,Second Class,CUST-397,Customer 6,Corporate,USA,Houston,Texas,South,P-2294,Office Supplies,Binders,Binders Model 12,1155.48,7,0.3,315.55
+CA-10148,2022-10-05,2022-10-10,First Class,CUST-240,Customer 14,Home Office,USA,Chicago,Illinois,Central,P-4920,Technology,Accessories,Accessories Model 8,1499.73,9,0.1,-28.6
+CA-10149,2022-12-05,2022-12-11,Same Day,CUST-202,Customer 18,Consumer,USA,Los Angeles,California,West,P-3587,Technology,Copiers,Copiers Model 14,466.83,7,0.1,-40.32
+CA-10150,2022-04-02,2022-04-08,Second Class,CUST-647,Customer 5,Consumer,USA,Chicago,Illinois,Central,P-7846,Office Supplies,Storage,Storage Model 6,414.92,1,0.2,10.18
+CA-10151,2022-11-02,2022-11-07,Standard Class,CUST-443,Customer 37,Corporate,USA,Los Angeles,California,West,P-9901,Office Supplies,Paper,Paper Model 17,388.9,1,0.2,106.77
+CA-10152,2022-06-16,2022-06-22,Same Day,CUST-763,Customer 33,Home Office,USA,Chicago,Illinois,Central,P-4050,Furniture,Bookcases,Bookcases Model 1,946.68,6,0.1,240.42
+CA-10153,2023-03-14,2023-03-19,First Class,CUST-188,Customer 52,Home Office,USA,Houston,Texas,South,P-2562,Office Supplies,Storage,Storage Model 6,1355.31,7,0.1,-42.05
+CA-10154,2023-04-03,2023-04-10,First Class,CUST-437,Customer 39,Home Office,USA,New York,New York,East,P-1187,Office Supplies,Paper,Paper Model 9,1872.93,4,0.0,32.5
+CA-10155,2023-02-20,2023-02-26,First Class,CUST-806,Customer 16,Home Office,USA,Houston,Texas,South,P-5833,Technology,Phones,Phones Model 12,143.01,3,0.0,15.65
+CA-10156,2023-01-18,2023-01-22,Same Day,CUST-875,Customer 69,Home Office,USA,New York,New York,East,P-4578,Furniture,Chairs,Chairs Model 8,966.8,10,0.3,199.63
+CA-10157,2022-04-25,2022-04-26,Second Class,CUST-686,Customer 69,Consumer,USA,Los Angeles,California,West,P-3695,Technology,Accessories,Accessories Model 11,1065.78,10,0.2,-90.44
+CA-10158,2023-04-02,2023-04-09,Standard Class,CUST-564,Customer 17,Home Office,USA,Chicago,Illinois,Central,P-7806,Furniture,Bookcases,Bookcases Model 15,426.69,9,0.3,-38.01
+CA-10159,2022-09-18,2022-09-25,Standard Class,CUST-863,Customer 28,Home Office,USA,Los Angeles,California,West,P-2196,Technology,Accessories,Accessories Model 2,1352.08,7,0.2,277.82
+CA-10160,2023-04-29,2023-04-30,First Class,CUST-518,Customer 24,Consumer,USA,Chicago,Illinois,Central,P-7887,Office Supplies,Storage,Storage Model 12,146.24,2,0.0,46.88
+CA-10161,2022-05-02,2022-05-04,Same Day,CUST-641,Customer 17,Home Office,USA,Chicago,Illinois,Central,P-4648,Office Supplies,Paper,Paper Model 1,763.78,6,0.1,140.6
+CA-10162,2022-09-11,2022-09-15,First Class,CUST-258,Customer 36,Consumer,USA,Los Angeles,California,West,P-2848,Office Supplies,Paper,Paper Model 2,1353.53,4,0.3,148.04
+CA-10163,2023-04-03,2023-04-08,Standard Class,CUST-350,Customer 6,Corporate,USA,Chicago,Illinois,Central,P-8191,Technology,Phones,Phones Model 8,496.52,1,0.0,-27.11
+CA-10164,2022-11-23,2022-11-28,First Class,CUST-342,Customer 39,Consumer,USA,New York,New York,East,P-9540,Furniture,Chairs,Chairs Model 8,1017.71,10,0.2,-14.89
+CA-10165,2023-07-24,2023-07-28,Standard Class,CUST-452,Customer 49,Home Office,USA,Chicago,Illinois,Central,P-6222,Office Supplies,Paper,Paper Model 14,140.7,7,0.1,24.16
+CA-10166,2022-11-04,2022-11-11,Second Class,CUST-925,Customer 60,Consumer,USA,Chicago,Illinois,Central,P-7761,Furniture,Tables,Tables Model 14,765.39,4,0.3,-16.51
+CA-10167,2023-01-15,2023-01-16,Second Class,CUST-152,Customer 35,Corporate,USA,New York,New York,East,P-1647,Office Supplies,Binders,Binders Model 3,524.89,8,0.2,89.77
+CA-10168,2022-11-07,2022-11-08,Second Class,CUST-294,Customer 16,Home Office,USA,New York,New York,East,P-8846,Technology,Copiers,Copiers Model 8,1349.47,6,0.1,142.68
+CA-10169,2023-10-27,2023-10-30,First Class,CUST-367,Customer 47,Home Office,USA,New York,New York,East,P-9147,Office Supplies,Binders,Binders Model 15,1113.12,9,0.2,57.1
+CA-10170,2022-11-17,2022-11-21,Standard Class,CUST-676,Customer 29,Home Office,USA,Los Angeles,California,West,P-3390,Technology,Accessories,Accessories Model 1,1528.03,6,0.2,445.34
+CA-10171,2022-12-04,2022-12-06,Same Day,CUST-683,Customer 32,Corporate,USA,Houston,Texas,South,P-6530,Technology,Copiers,Copiers Model 9,1166.7,4,0.3,3.31
+CA-10172,2022-06-23,2022-06-25,Same Day,CUST-288,Customer 70,Home Office,USA,Chicago,Illinois,Central,P-1962,Technology,Copiers,Copiers Model 17,1484.4,6,0.3,-80.6
+CA-10173,2022-03-11,2022-03-17,Second Class,CUST-109,Customer 28,Home Office,USA,Los Angeles,California,West,P-8471,Furniture,Bookcases,Bookcases Model 12,116.06,4,0.0,9.93
+CA-10174,2022-01-07,2022-01-12,Same Day,CUST-112,Customer 3,Home Office,USA,Los Angeles,California,West,P-5501,Technology,Copiers,Copiers Model 18,1340.17,1,0.3,223.38
+CA-10175,2022-04-20,2022-04-21,Second Class,CUST-346,Customer 25,Home Office,USA,Houston,Texas,South,P-9625,Furniture,Bookcases,Bookcases Model 9,1630.05,3,0.3,379.44
+CA-10176,2023-12-15,2023-12-17,First Class,CUST-800,Customer 11,Home Office,USA,Houston,Texas,South,P-1519,Office Supplies,Paper,Paper Model 3,176.46,4,0.3,13.51
+CA-10177,2022-03-26,2022-03-30,Same Day,CUST-760,Customer 43,Home Office,USA,Chicago,Illinois,Central,P-2562,Office Supplies,Paper,Paper Model 17,1114.35,3,0.0,207.87
+CA-10178,2023-12-02,2023-12-05,Standard Class,CUST-283,Customer 41,Consumer,USA,Los Angeles,California,West,P-4394,Furniture,Chairs,Chairs Model 19,1804.52,2,0.3,-14.45
+CA-10179,2023-08-04,2023-08-11,Same Day,CUST-793,Customer 70,Corporate,USA,New York,New York,East,P-7288,Technology,Accessories,Accessories Model 5,1859.17,4,0.2,-87.19
+CA-10180,2022-03-19,2022-03-22,Same Day,CUST-892,Customer 42,Consumer,USA,Los Angeles,California,West,P-5478,Technology,Copiers,Copiers Model 15,1949.16,4,0.0,-109.23
+CA-10181,2023-11-08,2023-11-12,Standard Class,CUST-890,Customer 80,Corporate,USA,Chicago,Illinois,Central,P-5037,Furniture,Tables,Tables Model 3,1115.01,10,0.3,71.73
+CA-10182,2023-01-05,2023-01-06,Standard Class,CUST-105,Customer 40,Corporate,USA,Los Angeles,California,West,P-6896,Office Supplies,Binders,Binders Model 9,772.4,6,0.1,172.13
+CA-10183,2023-02-22,2023-02-23,Standard Class,CUST-191,Customer 46,Home Office,USA,Los Angeles,California,West,P-2524,Furniture,Chairs,Chairs Model 20,391.04,9,0.3,47.18
+CA-10184,2022-09-06,2022-09-11,Second Class,CUST-801,Customer 49,Consumer,USA,Houston,Texas,South,P-3274,Office Supplies,Binders,Binders Model 9,597.86,9,0.3,131.9
+CA-10185,2022-11-03,2022-11-07,Standard Class,CUST-469,Customer 33,Consumer,USA,Houston,Texas,South,P-9123,Office Supplies,Paper,Paper Model 20,308.95,7,0.1,26.45
+CA-10186,2023-09-28,2023-10-02,First Class,CUST-550,Customer 43,Corporate,USA,New York,New York,East,P-3230,Office Supplies,Binders,Binders Model 10,288.27,6,0.0,94.26
+CA-10187,2022-11-23,2022-11-26,Same Day,CUST-689,Customer 32,Corporate,USA,Houston,Texas,South,P-7161,Technology,Copiers,Copiers Model 9,417.69,7,0.2,-16.73
+CA-10188,2022-07-04,2022-07-10,Standard Class,CUST-844,Customer 60,Home Office,USA,Chicago,Illinois,Central,P-4434,Office Supplies,Binders,Binders Model 15,1865.49,9,0.1,291.95
+CA-10189,2023-10-11,2023-10-14,Second Class,CUST-358,Customer 20,Home Office,USA,Houston,Texas,South,P-7932,Technology,Phones,Phones Model 13,1641.55,3,0.3,283.73
+CA-10190,2023-07-11,2023-07-12,First Class,CUST-818,Customer 69,Home Office,USA,Los Angeles,California,West,P-2392,Office Supplies,Storage,Storage Model 4,968.88,7,0.3,107.03
+CA-10191,2022-12-06,2022-12-13,Same Day,CUST-208,Customer 2,Consumer,USA,New York,New York,East,P-5239,Technology,Copiers,Copiers Model 8,722.92,7,0.0,110.93
+CA-10192,2023-05-10,2023-05-11,First Class,CUST-525,Customer 11,Consumer,USA,New York,New York,East,P-3321,Office Supplies,Paper,Paper Model 12,794.45,1,0.1,35.94
+CA-10193,2023-03-25,2023-03-31,Same Day,CUST-426,Customer 9,Corporate,USA,Houston,Texas,South,P-1732,Office Supplies,Paper,Paper Model 4,1572.85,2,0.3,42.05
+CA-10194,2023-06-13,2023-06-15,Second Class,CUST-438,Customer 72,Corporate,USA,Los Angeles,California,West,P-8570,Office Supplies,Storage,Storage Model 8,236.54,4,0.1,72.96
+CA-10195,2022-07-22,2022-07-26,Same Day,CUST-498,Customer 1,Home Office,USA,Chicago,Illinois,Central,P-4519,Technology,Phones,Phones Model 7,389.05,10,0.3,18.68
+CA-10196,2023-04-14,2023-04-15,First Class,CUST-786,Customer 63,Home Office,USA,Houston,Texas,South,P-6134,Technology,Phones,Phones Model 20,1163.15,4,0.1,63.52
+CA-10197,2023-09-25,2023-09-27,First Class,CUST-729,Customer 76,Consumer,USA,Chicago,Illinois,Central,P-3194,Technology,Accessories,Accessories Model 11,1182.27,8,0.2,45.39
+CA-10198,2023-02-02,2023-02-06,Second Class,CUST-688,Customer 50,Corporate,USA,Los Angeles,California,West,P-4043,Furniture,Tables,Tables Model 16,251.56,9,0.2,48.31
+CA-10199,2023-09-27,2023-09-28,First Class,CUST-109,Customer 63,Consumer,USA,New York,New York,East,P-4196,Technology,Phones,Phones Model 13,989.49,8,0.1,-25.53
+CA-10200,2023-08-02,2023-08-03,Second Class,CUST-399,Customer 5,Corporate,USA,Chicago,Illinois,Central,P-4683,Office Supplies,Storage,Storage Model 18,993.62,2,0.3,89.34
